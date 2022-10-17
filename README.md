@@ -8,3 +8,5 @@ Big things this project handled were:
 - Adding images
 
 A lot of this was review from the several times I've tried picking up Web Development. But a refresher is never bad. Right?
+
+If you're seeing this, you're on the *stylish* branch. Meaning I'm going to probably make this look like some hot trash with CSS.
